@@ -25,3 +25,5 @@ equation = equation.split()
 
 a, b, c = int(equation[0]), int(equation[5]), int(equation[8])
 result(a, b, c)
+
+# https://github.com/Phawer-7/science/quadratic_equation
